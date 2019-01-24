@@ -1,0 +1,18 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+
+# Python files I shouldn't commit #
+###################################
+download_data.py
+test.py
+problem.py
+
+# Random folders #
+##################
+.ipynb_checkpoints/
+__pycache__/
+.idea/
+requirements.txt
+data/
